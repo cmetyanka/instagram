@@ -1,0 +1,1124 @@
+Uri: https://static.cdninstagram.com/images/ads/branded_map_pin.png?__makehaste_cache_breaker=QxM9c3xf1b4
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ads\branded_map_pin.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/ad_choices.png?__makehaste_cache_breaker=tOMh8nRBb4Z
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\ad_choices.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_info_adchoices.png?__makehaste_cache_breaker=OGqJ1fYkNfh
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\icon_info_adchoices.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_adchoices.png?__makehaste_cache_breaker=8RFARmpILyE
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\icon_xout_adchoices.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_ad_preferences.png?__makehaste_cache_breaker=iLLvv8js0qr
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\icon_xout_ad_preferences.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_cross.png?__makehaste_cache_breaker=h3TJN88cIRB
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\icon_xout_cross.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_hide.png?__makehaste_cache_breaker=EkIMv2Z8fSD
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\icon_xout_hide.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_hide_white.png?__makehaste_cache_breaker=qMDbQeZThwc
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\icon_xout_hide_white.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_report.png?__makehaste_cache_breaker=gow2_WOnJes
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\icon_xout_report.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_report_white.png?__makehaste_cache_breaker=ZHmWZ5jPNJo
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\icon_xout_report_white.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/ad_network/icon_xout_tick.png?__makehaste_cache_breaker=33xVYAe6drA
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\ad_network\icon_xout_tick.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/community_empowerment_roles/Communities-Empowerment-Roles-Platform-Spark-New-Convo-QP-ALT-WWW_light.png?__makehaste_cache_breaker=fX_BSjkmfju
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\assets_DO_NOT_HARDCODE\community_empowerment_roles\Communities-Empowerment-Roles-Platform-Spark-New-Convo-QP-ALT-WWW_light.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/facebook_icons/app-instant-games_filled_24_primary-icon-on-media.png?__makehaste_cache_breaker=zw59L7ftc4b
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\assets_DO_NOT_HARDCODE\facebook_icons\app-instant-games_filled_24_primary-icon-on-media.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameBottom_dark.png?__makehaste_cache_breaker=MbUjt44_M58
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\assets_DO_NOT_HARDCODE\generic_mobile_device_frame\LaptopDeviceFrameBottom_dark.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameBottom_light.png?__makehaste_cache_breaker=YkIg6DWpi8y
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\assets_DO_NOT_HARDCODE\generic_mobile_device_frame\LaptopDeviceFrameBottom_light.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameTop_dark.png?__makehaste_cache_breaker=ijtwALOagJp
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\assets_DO_NOT_HARDCODE\generic_mobile_device_frame\LaptopDeviceFrameTop_dark.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/assets_DO_NOT_HARDCODE/generic_mobile_device_frame/LaptopDeviceFrameTop_light.png?__makehaste_cache_breaker=TxhjtDtKNE3
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\assets_DO_NOT_HARDCODE\generic_mobile_device_frame\LaptopDeviceFrameTop_light.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/business_integrity/non_discrimination/Non_Discrimination_Header.png?__makehaste_cache_breaker=NtRNG_gaN11
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\business_integrity\non_discrimination\Non_Discrimination_Header.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/commerce_platform/shop_builder/preview-mobile-frame.png?__makehaste_cache_breaker=lS49le69x3X
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\commerce_platform\shop_builder\preview-mobile-frame.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones-2x.png?__makehaste_cache_breaker=73SVAexZgBW
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\instagram\xig\homepage\phones\home-phones-2x.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/instagram/xig/homepage/phones/home-phones.png?__makehaste_cache_breaker=HOgRclNOosk
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\instagram\xig\homepage\phones\home-phones.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/instagram/xig_legacy_spritesheets/sprite_core.png?__makehaste_cache_breaker=VftLCxPPZoi
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\instagram\xig_legacy_spritesheets\sprite_core.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/instagram/xig_legacy_spritesheets/sprite_core_2x.png?__makehaste_cache_breaker=GWw2YTj1Yfo
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\instagram\xig_legacy_spritesheets\sprite_core_2x.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/marketing_messaging/instagram_preview_frame_4x.png?__makehaste_cache_breaker=VThmYCw6QtY
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\marketing_messaging\instagram_preview_frame_4x.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/marketing_messaging/messenger_preview_frame_4x.png?__makehaste_cache_breaker=SYe6xuYV4dy
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\marketing_messaging\messenger_preview_frame_4x.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/delete.png?__makehaste_cache_breaker=uMFc7Vv5zGa
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\mobile\partner_portal\oxsights\delete.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/delete_dark.png?__makehaste_cache_breaker=UsAf3NxOqis
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\mobile\partner_portal\oxsights\delete_dark.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/share_custom.png?__makehaste_cache_breaker=eXTIrD70d3e
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\mobile\partner_portal\oxsights\share_custom.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/mobile/partner_portal/oxsights/share_dark.png?__makehaste_cache_breaker=Rm6JKCcGjW-
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\mobile\partner_portal\oxsights\share_dark.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/social_good/donation-comment-hearts.png?__makehaste_cache_breaker=XdnlgRIDrAe
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\social_good\donation-comment-hearts.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/social_good/fundraiser/fundraiser-jar.png?__makehaste_cache_breaker=pIB2zrKnPRf
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\social_good\fundraiser\fundraiser-jar.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/video/onboarding/onboardingFlow-starBg.png?__makehaste_cache_breaker=7SR6gMtBpp6
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\video\onboarding\onboardingFlow-starBg.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/video/player_redesign/bottom_gradient.png?__makehaste_cache_breaker=Z8ThNyxPEjI
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\video\player_redesign\bottom_gradient.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/images/whatsapp/onboarding_platform/tree-line.svg?__makehaste_cache_breaker=iQ6qiDdN0-q
+File Name: C:\Downloaded Web Sites\www.instagram.com\images\whatsapp\onboarding_platform\tree-line.svg
+Content Type: image/svg+xml
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y2/r/9b8ieLAMy-I.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\y2\r\9b8ieLAMy-I.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y5/r/TJztmXpWTmS.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\y5\r\TJztmXpWTmS.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/y8/r/ZWR9C7_JdnP.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\y8\r\ZWR9C7_JdnP.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yA/r/35FE-8vCObt.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yA\r\35FE-8vCObt.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yb/l/0,ja_JP/tjAv5FDmbrr.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yb\l\0,ja_JP\tjAv5FDmbrr.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yB/r/-7Z_RkdLJUX.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yB\r\-7Z_RkdLJUX.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yb/r/lswP1OF1o6P.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yb\r\lswP1OF1o6P.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yG/r/De-Dwpd5CHc.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yG\r\De-Dwpd5CHc.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yg/r/y6a-zrkW3Zq.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yg\r\y6a-zrkW3Zq.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yH/r/S8jSrtgyvd6.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yH\r\S8jSrtgyvd6.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yi/l/1,cross/tjAv5FDmbrr.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yi\l\1,cross\tjAv5FDmbrr.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yi/l/2,cross/tjAv5FDmbrr.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yi\l\2,cross\tjAv5FDmbrr.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yi/r/lvkTQo0k7OO.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yi\r\lvkTQo0k7OO.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yL/r/unHwF9CkMyM.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yL\r\unHwF9CkMyM.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yN/r/otZOn9ChsZX.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yN\r\otZOn9ChsZX.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yn/r/tBL620o9fEP.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yn\r\tBL620o9fEP.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yn/r/XPTX0nme-Oq.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yn\r\XPTX0nme-Oq.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yO/r/38WVYkpbDd-.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yO\r\38WVYkpbDd-.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yp/r/LElfhC4pb_J.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yp\r\LElfhC4pb_J.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yp/r/_kDwUYOrwpv.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yp\r\_kDwUYOrwpv.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yR/r/lam-fZmwmvn.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yR\r\lam-fZmwmvn.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yr/r/Zf3P2CwU8LT.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yr\r\Zf3P2CwU8LT.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/ys/r/aM-g435MtEX.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\ys\r\aM-g435MtEX.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yS/r/j2tKuSsziq4.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yS\r\j2tKuSsziq4.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yS/r/lVGlFG1Qa2U.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yS\r\lVGlFG1Qa2U.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/ys/r/qv7ZSPGDNFr.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\ys\r\qv7ZSPGDNFr.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/ys/r/S1P1l-_zsDj.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\ys\r\S1P1l-_zsDj.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yv/r/5WZ51EJRBPR.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yv\r\5WZ51EJRBPR.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yX/l/0,cross/tjAv5FDmbrr.css?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yX\l\0,cross\tjAv5FDmbrr.css
+Content Type: text/css
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3/yx/r/H1l_HHqi4p6.png
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3\yx\r\H1l_HHqi4p6.png
+Content Type: image/png
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i-Bf4/yo/l/nl_NL/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i-Bf4\yo\l\nl_NL\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i-L94/yP/l/tr_TR/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i-L94\yP\l\tr_TR\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i-UV4/yD/l/sr_RS/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i-UV4\yD\l\sr_RS\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i01X4/ya/l/sk_SK/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i01X4\ya\l\sk_SK\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i0UK4/yx/l/ml_IN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i0UK4\yx\l\ml_IN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1dc4/y6/l/fr_CA/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i1dc4\y6\l\fr_CA\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1dc4/yB/l/fr_FR/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i1dc4\yB\l\fr_FR\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i1eQ4/yE/l/it_IT/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i1eQ4\yE\l\it_IT\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i2RM4/y9/l/fr_CA/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i2RM4\y9\l\fr_CA\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i3ew4/y-/l/ru_RU/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i3ew4\y-\l\ru_RU\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i4aV4/y6/l/pt_PT/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i4aV4\y6\l\pt_PT\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i5QA4/yo/l/gu_IN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i5QA4\yo\l\gu_IN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i6qk4/yM/l/pt_BR/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i6qk4\yM\l\pt_BR\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i6qk4/yN/l/pt_PT/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i6qk4\yN\l\pt_PT\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i6v24/yw/l/zh_HK/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i6v24\yw\l\zh_HK\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i6v24/yX/l/zh_TW/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i6v24\yX\l\zh_TW\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i70s4/yL/l/ne_NP/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i70s4\yL\l\ne_NP\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i7k64/yW/l/hr_HR/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i7k64\yW\l\hr_HR\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i7Wi4/yZ/l/ja_JP/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i7Wi4\yZ\l\ja_JP\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i8Bn4/yA/l/hi_IN/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i8Bn4\yA\l\hi_IN\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i8hN4/ya/l/hr_HR/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i8hN4\ya\l\hr_HR\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i8IB4/yD/l/pt_PT/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i8IB4\yD\l\pt_PT\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i8R-4/yj/l/ml_IN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i8R-4\yj\l\ml_IN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i8W54/yl/l/ne_NP/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i8W54\yl\l\ne_NP\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i9hQ4/yf/l/ta_IN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i9hQ4\yf\l\ta_IN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3i9y54/yv/l/ms_MY/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3i9y54\yv\l\ms_MY\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iaaP4/yP/l/ro_RO/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iaaP4\yP\l\ro_RO\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iABX4/yt/l/bg_BG/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iABX4\yt\l\bg_BG\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iAhW4/ya/l/nb_NO/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iAhW4\ya\l\nb_NO\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iaKl4/yR/l/ru_RU/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iaKl4\yR\l\ru_RU\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iAnl4/yU/l/sr_RS/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iAnl4\yU\l\sr_RS\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iAsP4/y9/l/en_US/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iAsP4\y9\l\en_US\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iB294/y1/l/nl_NL/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iB294\y1\l\nl_NL\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iB2T4/yM/l/vi_VN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iB2T4\yM\l\vi_VN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ib8M4/y7/l/fr_FR/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ib8M4\y7\l\fr_FR\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ibN94/yV/l/kn_IN/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ibN94\yV\l\kn_IN\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ibr34/yS/l/si_LK/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ibr34\yS\l\si_LK\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iC0e4/yY/l/pl_PL/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iC0e4\yY\l\pl_PL\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iC4K4/y2/l/ko_KR/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iC4K4\y2\l\ko_KR\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iC_Q4/ya/l/hi_IN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iC_Q4\ya\l\hi_IN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3id-24/y0/l/pl_PL/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3id-24\y0\l\pl_PL\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3id334/yy/l/bg_BG/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3id334\yy\l\bg_BG\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iD7j4/yw/l/tr_TR/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iD7j4\yw\l\tr_TR\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3idBq4/yA/l/en_US/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3idBq4\yA\l\en_US\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3idBq4/yn/l/en_GB/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3idBq4\yn\l\en_GB\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3idfH4/ya/l/en_US/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3idfH4\ya\l\en_US\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3idhi4/yc/l/fi_FI/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3idhi4\yc\l\fi_FI\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iDIs4/yA/l/nb_NO/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iDIs4\yA\l\nb_NO\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3idl14/y2/l/bn_IN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3idl14\y2\l\bn_IN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iDSt4/yc/l/de_DE/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iDSt4\yc\l\de_DE\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iDWM4/yH/l/th_TH/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iDWM4\yH\l\th_TH\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ieAH4/yh/l/ru_RU/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ieAH4\yh\l\ru_RU\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iEgz4/y2/l/nl_NL/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iEgz4\y2\l\nl_NL\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ieM34/yJ/l/zh_HK/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ieM34\yJ\l\zh_HK\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ieXu4/yu/l/pt_BR/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ieXu4\yu\l\pt_BR\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iF-K4/y-/l/bn_IN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iF-K4\y-\l\bn_IN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3if7-4/yf/l/sk_SK/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3if7-4\yf\l\sk_SK\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iFHw4/yG/l/te_IN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iFHw4\yG\l\te_IN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3igi54/yh/l/ko_KR/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3igi54\yh\l\ko_KR\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iGZG4/yg/l/te_IN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iGZG4\yg\l\te_IN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3igZM4/yr/l/it_IT/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3igZM4\yr\l\it_IT\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ih5R4/yR/l/gu_IN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ih5R4\yR\l\gu_IN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iHd74/yF/l/si_LK/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iHd74\yF\l\si_LK\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ihf84/yv/l/gu_IN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ihf84\yv\l\gu_IN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iHQ44/yg/l/vi_VN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iHQ44\yg\l\vi_VN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ihuk4/y8/l/id_ID/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ihuk4\y8\l\id_ID\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ihVG4/yh/l/ta_IN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ihVG4\yh\l\ta_IN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iHVL4/y5/l/cs_CZ/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iHVL4\y5\l\cs_CZ\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iHYj4/yy/l/kn_IN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iHYj4\yy\l\kn_IN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ihz74/yh/l/af_ZA/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ihz74\yh\l\af_ZA\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iH_T4/yR/l/pa_IN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iH_T4\yR\l\pa_IN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iH_Y4/ye/l/ja_JP/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iH_Y4\ye\l\ja_JP\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ii2A4/y8/l/te_IN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ii2A4\y8\l\te_IN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iiHE4/y-/l/es_LA/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iiHE4\y-\l\es_LA\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iiiR4/y1/l/hi_IN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iiiR4\y1\l\hi_IN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iIuy4/yp/l/zh_HK/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iIuy4\yp\l\zh_HK\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iiWN4/yd/l/th_TH/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iiWN4\yd\l\th_TH\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ij9f4/ya/l/th_TH/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ij9f4\ya\l\th_TH\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ijC54/yx/l/vi_VN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ijC54\yx\l\vi_VN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ijNW4/yS/l/sk_SK/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ijNW4\yS\l\sk_SK\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iJqO4/y0/l/gu_IN/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iJqO4\y0\l\gu_IN\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iKl24/yV/l/da_DK/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iKl24\yV\l\da_DK\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ikn_4/yw/l/fr_CA/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ikn_4\yw\l\fr_CA\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ikQx4/yL/l/nb_NO/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ikQx4\yL\l\nb_NO\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ikTr4/yX/l/cs_CZ/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ikTr4\yX\l\cs_CZ\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ikvU4/y9/l/ru_RU/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ikvU4\y9\l\ru_RU\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ikw84/yu/l/ml_IN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ikw84\yu\l\ml_IN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ikX24/yY/l/hi_IN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ikX24\yY\l\hi_IN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ilBf4/yE/l/hu_HU/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ilBf4\yE\l\hu_HU\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iLcB4/ya/l/fi_FI/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iLcB4\ya\l\fi_FI\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iLKQ4/yl/l/fi_FI/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iLKQ4\yl\l\fi_FI\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iLVA4/yo/l/zh_CN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iLVA4\yo\l\zh_CN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ilX14/yk/l/zh_TW/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ilX14\yk\l\zh_TW\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3im--4/yg/l/tl_PH/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3im--4\yg\l\tl_PH\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iMKT4/ya/l/pa_IN/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iMKT4\ya\l\pa_IN\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iMNY4/yK/l/de_DE/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iMNY4\yK\l\de_DE\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3imYg4/y8/l/sr_RS/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3imYg4\y8\l\sr_RS\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iN594/y8/l/da_DK/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iN594\y8\l\da_DK\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3indN4/yq/l/zh_CN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3indN4\yq\l\zh_CN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3io6c4/yn/l/ro_RO/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3io6c4\yn\l\ro_RO\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ioBp4/y6/l/da_DK/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ioBp4\y6\l\da_DK\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iorS4/yH/l/bg_BG/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iorS4\yH\l\bg_BG\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iOti4/y-/l/hr_HR/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iOti4\y-\l\hr_HR\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ioUl4/ye/l/es_LA/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ioUl4\ye\l\es_LA\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iOyw4/yT/l/pl_PL/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iOyw4\yT\l\pl_PL\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iP1B4/yE/l/ro_RO/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iP1B4\yE\l\ro_RO\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iP8d4/yP/l/si_LK/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iP8d4\yP\l\si_LK\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ipC84/ya/l/pl_PL/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ipC84\ya\l\pl_PL\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ipIO4/yG/l/en_GB/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ipIO4\yG\l\en_GB\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iplN4/ye/l/el_GR/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iplN4\ye\l\el_GR\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iPqR4/yZ/l/cs_CZ/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iPqR4\yZ\l\cs_CZ\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iP_U4/yo/l/af_ZA/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iP_U4\yo\l\af_ZA\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iqpf4/yV/l/ro_RO/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iqpf4\yV\l\ro_RO\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iQqC4/yO/l/hr_HR/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iQqC4\yO\l\hr_HR\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iR-P4/yL/l/uk_UA/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iR-P4\yL\l\uk_UA\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ir6f4/yG/l/pt_BR/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ir6f4\yG\l\pt_BR\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRFf4/y4/l/mr_IN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iRFf4\y4\l\mr_IN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRih4/yH/l/bn_IN/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iRih4\yH\l\bn_IN\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRTm4/ya/l/el_GR/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iRTm4\ya\l\el_GR\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRv34/y-/l/sv_SE/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iRv34\y-\l\sv_SE\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRwq4/y8/l/sk_SK/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iRwq4\y8\l\sk_SK\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3irwT4/ym/l/mr_IN/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3irwT4\ym\l\mr_IN\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iRxF4/yu/l/ne_NP/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iRxF4\yu\l\ne_NP\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iS2g4/yv/l/bn_IN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iS2g4\yv\l\bn_IN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3isTn4/yo/l/fr_FR/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3isTn4\yo\l\fr_FR\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iT3B4/y9/l/ms_MY/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iT3B4\y9\l\ms_MY\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3itD94/yB/l/id_ID/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3itD94\yB\l\id_ID\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iTdX4/yp/l/id_ID/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iTdX4\yp\l\id_ID\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iTdX4/yX/l/ms_MY/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iTdX4\yX\l\ms_MY\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3itLd4/y4/l/en_GB/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3itLd4\y4\l\en_GB\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iTOJ4/ye/l/mr_IN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iTOJ4\ye\l\mr_IN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3itQd4/yC/l/sv_SE/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3itQd4\yC\l\sv_SE\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iTUI4/ys/l/da_DK/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iTUI4\ys\l\da_DK\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iU9f4/y3/l/cs_CZ/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iU9f4\y3\l\cs_CZ\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iudC4/y5/l/sr_RS/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iudC4\y5\l\sr_RS\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iUlG4/yK/l/tr_TR/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iUlG4\yK\l\tr_TR\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iURJ4/yC/l/uk_UA/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iURJ4\yC\l\uk_UA\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ivhA4/y0/l/hu_HU/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ivhA4\y0\l\hu_HU\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iVmD4/yH/l/af_ZA/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iVmD4\yH\l\af_ZA\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iVwD4/yO/l/uk_UA/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iVwD4\yO\l\uk_UA\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iWdy4/yU/l/hu_HU/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iWdy4\yU\l\hu_HU\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iwh94/yH/l/si_LK/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iwh94\yH\l\si_LK\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iwl34/yv/l/ta_IN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iwl34\yv\l\ta_IN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iwme4/yn/l/ko_KR/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iwme4\yn\l\ko_KR\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iWXC4/yk/l/tl_PH/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iWXC4\yk\l\tl_PH\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iwzY4/yt/l/ja_JP/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iwzY4\yt\l\ja_JP\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iXfU4/yr/l/es_LA/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iXfU4\yr\l\es_LA\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iXho4/yW/l/zh_CN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iXho4\yW\l\zh_CN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ixNh4/yA/l/mr_IN/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ixNh4\yA\l\mr_IN\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3ixvy4/yW/l/zh_TW/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3ixvy4\yW\l\zh_TW\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iYB_4/yW/l/pa_IN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iYB_4\yW\l\pa_IN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iyjv4/yZ/l/it_IT/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iyjv4\yZ\l\it_IT\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iYWH4/ys/l/pa_IN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iYWH4\ys\l\pa_IN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iyzy4/ym/l/tl_PH/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iyzy4\ym\l\tl_PH\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iZ0r4/y6/l/el_GR/G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CEDzgqKxcJwUMqLbIgiMGQus-eAkATF7zaf8bvjZkyjgFF_laIohmRQ2b689MN8ONsI-W4ruPDqa8M8KONvsWqehdEtWwDQVEH-g-FDC.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iZ0r4\y6\l\el_GR\G-d5-NRlPtJt9YkHn6Q07QEb2ruprzpXSM_muKlhIUL62rUO0NkwxdXEyyESAl3WL8aij9KwaJurzY8rxg0YevTK6PohcCHQA0Lu0Oh55GB9Dz2wZxz7qZEYrrZl6cJU5ZQzLgvwffuKmeXfiXlV15dTDPfQFIO8gZ9_9ZOGNGU3q_Sqk6lN67CED.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iza64/y7/l/de_DE/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iza64\y7\l\de_DE\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3izhW4/yR/l/sv_SE/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3izhW4\yR\l\sv_SE\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iZKb4/yn/l/kn_IN/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iZKb4\yn\l\kn_IN\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3izln4/ye/l/tl_PH/2iDeDrYc4y_.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3izln4\ye\l\tl_PH\2iDeDrYc4y_.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3iZqz4/yE/l/kn_IN/KuRxePnCep2.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3iZqz4\yE\l\kn_IN\KuRxePnCep2.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/v3izSH4/yv/l/uk_UA/lKnEaiL5h8a.js?_nc_x=Ij3Wp8lg5Kz
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\v3izSH4\yv\l\uk_UA\lKnEaiL5h8a.js
+Content Type: application/x-javascript
+
+Uri: https://static.cdninstagram.com/rsrc.php/yv/r/BTPhT6yIYfq.ico
+File Name: C:\Downloaded Web Sites\www.instagram.com\rsrc.php\yv\r\BTPhT6yIYfq.ico
+Content Type: image/x-icon
+
+Uri: https://www.instagram.com/
+File Name: C:\Downloaded Web Sites\www.instagram.com\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=af
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-12.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=am-et
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-53.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=bg
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-43.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=bn
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-31.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=cs
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-13.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=da
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-14.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=de
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=el
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-15.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=en
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=en-gb
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-50.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=es
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-5.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=es-la
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-49.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=fi
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-16.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=fr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=fr-ca
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-44.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=gu
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-32.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ha-ng
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-52.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=hi
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-30.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=hr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-17.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=hu
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-18.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=id
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-19.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=it
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ja
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-8.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=kn
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-33.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ko
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-9.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ml
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-34.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=mr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-35.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ms
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-20.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=nb
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-21.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ne
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-39.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=nl
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-22.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=om-et
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-54.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=pa
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-36.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=pl
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-23.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=pt
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=pt-br
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-11.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ro
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-45.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ru
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-24.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=si
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-40.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=sk
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-25.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=sr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-46.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=sv
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-26.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=sw-ke
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-51.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ta
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-37.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=te
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-38.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=th
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-27.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=tl
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-28.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=tr
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-29.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=uk
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-47.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=ur
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-41.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=vi
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-42.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=zh-cn
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-6.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=zh-hk
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-48.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/?hl=zh-tw
+File Name: C:\Downloaded Web Sites\www.instagram.com\index-7.htm
+Content Type: text/html
+
